@@ -4,23 +4,23 @@ ingredients:
         amounts:
             - amount: 750
               unit: g
-    - ceapă albă mică
+    - "ceapă albă mică":
         amounts:
             - amount: 1
               unit: buc
-    - ouă mari
+    - "ouă mari":
         amounts:
             - amount: 2
               unit: buc
-    - căței de ustoroi
+    - "căței de ustoroi":
         amounts:
             - amount: 2
               unit: buc
-    - busuioc tăiat mărunt
+    - "busuioc tăiat mărunt":
         amounts:
             - amount: un
               unit: pic
-    - parmezan ras:
+    - "parmezan ras":
         amounts:
             - amount: 50
               unit: g
