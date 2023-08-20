@@ -24,5 +24,24 @@ ingredients:
         amounts:
             - amount: 50
               unit: g
+    - lapte:
+        amounts:
+            - amount: 180
+              unit: ml
+    - "fulgi de ardei iute":
+        amounts:
+            - amount: cît
+              unit: cuprinde
+    - făină:
+        amounts:
+            - amount: 120
+              unit: g
+    - mălai:
+        amounts:
+            - amount: 30
+              unit: g
 steps:
-    - step: Give an apple to a friend.
+    - step: Taie felii subțiri (cu cuțitul sau mandolina) dovleceii și ceapa. Pune totul într-o strecurătoare cu 1 linguriță de sare, amestecă și lasă să se scurgă 30-45min.
+    - step: Cuptorul la 180C. Unge o tavă rotundă cu diametrul de 25cm cu ulei de măsline. Stoarce dovleceii să scoți și toată apa posibilă și pune-i pe niște prosoape de hârtie. Tamponează-i pe toate părțile să-i usuci.
+    - step: Bate 2 ouă. Adaugă usturoiul, busuiocul, parmezanul și amestecă. Adaugă laptele, fulgii de ardei iute, 1/4 lgț piper și 1/4 lgț sare. Amestecă. Adaugă făina și mălaiul, amestecă. Pune dovleceii și ceapa și amestecă. Pune amestecul în tava unsă. Presară fulgi de sare sau sare simplă și stropește cu 2 linguri de ulei de măsline.
+    - step: Dă la cuptor 35-40 de minute sau până când s-a rumenit pe margine și la mijloc e copt.

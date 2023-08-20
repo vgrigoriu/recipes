@@ -20,7 +20,7 @@
     return recipe
   }
 
-  let recipePromise = getRecipe("https://raw.githubusercontent.com/techhat/openrecipeformat/master/examples/banana-bread.yaml")
+  let recipePromise = getRecipe("https://raw.githubusercontent.com/vgrigoriu/recipes/main/recipes/scarpaccia.yaml")
 </script>
 
 <main>
