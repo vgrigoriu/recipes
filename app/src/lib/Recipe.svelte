@@ -4,6 +4,7 @@
     export let recipe: OpenRecipe
 </script>
 
+<article>
 <h1>{recipe.recipe_name}</h1>
 
 <h2>Ingrediente</h2>
@@ -28,3 +29,11 @@
         <li>{step.step}</li>
     {/each}
 </ol>
+</article>
+
+<style>
+    article {
+        max-width: 40em;
+        text-align: justify;
+    }
+</style>
