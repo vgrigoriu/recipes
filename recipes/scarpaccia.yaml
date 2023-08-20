@@ -1,0 +1,28 @@
+recipe_name: Scarpaccia
+ingredients:
+    - dovlecei/zucchini:
+        amounts:
+            - amount: 750
+              unit: g
+    - ceapă albă mică
+        amounts:
+            - amount: 1
+              unit: buc
+    - ouă mari
+        amounts:
+            - amount: 2
+              unit: buc
+    - căței de ustoroi
+        amounts:
+            - amount: 2
+              unit: buc
+    - busuioc tăiat mărunt
+        amounts:
+            - amount: un
+              unit: pic
+    - parmezan ras:
+        amounts:
+            - amount: 50
+              unit: g
+steps:
+    - step: Give an apple to a friend.
